@@ -1,9 +1,5 @@
 # AirGuitar
 
-## Result
-[![AirGuitar](http://img.youtube.com/vi/RaQGj5DZogk/0.jpg)](https://www.youtube.com/watch?v=RaQGj5DZogk)    
-[Youtube](https://www.youtube.com/watch?v=RaQGj5DZogk)    
-
 ## Introduction
 A project to play the piano with only a webcam without an instrument
 
