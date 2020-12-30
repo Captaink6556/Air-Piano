@@ -1,4 +1,4 @@
-# AirGuitar
+# Air Piano
 
 ## Introduction
 A project to play the piano with only a webcam without an instrument
